@@ -5,7 +5,8 @@ Calculate word counts in a text file!
 ## Installation
 
 ```bash
-$ pip install pycounts_ykz
+$ cd dist/
+$ pip install pycounts-0.1.0-py3-none-any.whl
 ```
 
 ## Usage
